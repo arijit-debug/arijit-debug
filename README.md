@@ -16,9 +16,12 @@
 
 `Java` `Full-Stack Web` `Git & GitHub` `VS Code` `Figma` `Fusion 360` `Premiere Pro` `After Effects`
 
-### 📬 Contact
-
-- ✉️ [arijitnaskar2023@gmail.com](mailto:arijitnaskar2023@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arijitnnaskar)
-
 <br clear="left" />
+
+<h3 align="center">📬 Contact</h3>
+
+<p align="center">
+  <a href="mailto:arijitnaskar2023@gmail.com"><img src="https://img.shields.io/badge/Email-arijitnaskar2023%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=238636" alt="Email: arijitnaskar2023@gmail.com" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arijitnnaskar"><img src="https://img.shields.io/badge/LinkedIn-arijitnnaskar-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=238636" alt="LinkedIn: arijitnnaskar" /></a>
+</p>
