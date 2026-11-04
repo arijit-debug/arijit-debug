@@ -21,7 +21,7 @@
 <h3 align="center">📬 Contact</h3>
 
 <p align="center">
-  <a href="mailto:arijitnaskar2023@gmail.com"><img src="https://img.shields.io/badge/Email-arijitnaskar2023%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=238636" alt="Email: arijitnaskar2023@gmail.com" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arijitnaskar2023@gmail.com"><img src="https://img.shields.io/badge/Email-arijitnaskar2023%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=238636" alt="Email: arijitnaskar2023@gmail.com" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/arijitnnaskar"><img src="https://img.shields.io/badge/LinkedIn-arijitnnaskar-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=238636" alt="LinkedIn: arijitnnaskar" /></a>
 </p>
