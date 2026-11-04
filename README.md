@@ -1,4 +1,4 @@
-<img src="./assets/portrait.svg" alt="Arijit Naskar, rendered in ASCII" align="left" width="48%" />
+<img src="./assets/portrait.svg" alt="Arijit Naskar, rendered in ASCII" align="left" width="52%" />
 
 ### Technology.
 
