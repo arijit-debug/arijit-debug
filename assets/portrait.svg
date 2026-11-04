@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="844" height="1030" viewBox="0 0 844 1030" xml:space="preserve">
+<defs><linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ee787" stop-opacity="0"/><stop offset=".5" stop-color="#7ee787" stop-opacity=".10"/><stop offset="1" stop-color="#7ee787" stop-opacity="0"/></linearGradient>
+<clipPath id="body"><rect x="0" y="40" width="844" height="990"/></clipPath></defs>
+<style>
+text{white-space:pre;font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:11px}
+.a{fill:#e6edf3;opacity:0;animation:on .5s ease-out forwards}
+.z{fill:#7ee787;opacity:0;animation:nz 1s linear forwards}
+@keyframes on{to{opacity:1}}
+@keyframes nz{0%{opacity:0}15%{opacity:.75}55%{opacity:.75}100%{opacity:0}}
+.h{font-size:12px;fill:#8b949e}.b{fill:#e6edf3;font-weight:600}.g{fill:#7ee787}
+.sc{animation:sc 7s linear 2.6s infinite}@keyframes sc{from{transform:translateY(-120px)}to{transform:translateY(1150px)}}
+.ty{animation:ty 1.4s steps(24,end) 2.8s forwards}@keyframes ty{from{width:0}to{width:175px}}
+.cu{opacity:0;animation:on 0s 2.6s forwards,bl 1s steps(1) 2.6s infinite}@keyframes bl{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.a{animation:none;opacity:1}.z,.sc{display:none}.ty{animation:none;width:200px}}
+</style>
+<rect width="844" height="1030" rx="12" fill="#0d1117"/>
+<rect x=".5" y=".5" width="843" height="1029" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="40" x2="844" y2="40" stroke="#21262d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="422.0" y="24" text-anchor="middle" class="h">arijit-debug / <tspan class="b">README.md</tspan></text>
+<text class="z" x="435.2" y="58.0" textLength="72.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.05s">.@1y%&amp;a+`d%</text>
+<text class="a" x="435.2" y="58.0" textLength="72.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.50s">___,~yuw,__</text>
+<text class="z" x="316.4" y="71.2" textLength="211.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.02s">8\   $*32&amp;~*b3%c=^xxd%cd1%^$ b?-</text>
+<text class="a" x="316.4" y="71.2" textLength="211.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.47s">__   _,_g@@PRhPPhThhhy___,:` :nn</text>
+<text class="z" x="276.8" y="84.4" textLength="283.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.99s">2@a=c_bA&gt;+dcx/`+bC&amp;c%f\7Aa3X.5d5`_~Y&gt;BX~*c_</text>
+<text class="a" x="276.8" y="84.4" textLength="283.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.44s">_w__,n@g@nnhhKhkkk^___yynhhhhhhhhhhk;_-^^n.</text>
+<text class="z" x="250.4" y="97.6" textLength="330.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.96s">97,D4-e&amp;=82&lt;F,@72$z&amp;FbcY.,B&#x27;e7dZ5&amp;*:6Bz&amp;%DB_yc A4-</text>
+<text class="a" x="250.4" y="97.6" textLength="330.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.41s">;PhKqh@RhnP^^^nnh^:_hkhk__________hhhy}^:hh_;` &#x27;n_</text>
+<text class="z" x="237.2" y="110.8" textLength="363.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.94s">C0z&#x27;#5&#x27;&lt;f=7%\X-?E~117*&lt;41b:?3b:C2&#x27;A0^@*&gt;@^z^!7d&gt;;-!@2a`</text>
+<text class="a" x="237.2" y="110.8" textLength="363.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.39s">_/^^yy@RK:r`,y-&#x27;v^^^nnhhhThRKkkThn=,;^^hhh^hy^h&#x27;:^^^T,~</text>
+<text class="z" x="224.0" y="124.0" textLength="402.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.91s">fc.? B8fyAE%5XAZb 1111+6x 1%/   &amp;\4&lt;=,e%+!c@a+`f#&amp;\ f0@x;&#x27;e`6</text>
+<text class="a" x="224.0" y="124.0" textLength="402.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.36s">_R^^ yhhhY-^^:^-&#x27; :::`:&#x27;` ^^^   `nnqy__hky_^hk_hhk` ^n:;:^h~_</text>
+<text class="z" x="224.0" y="137.2" textLength="415.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.88s">=   =7566_*@ +E,E;6B&lt;9#       \9`@Ba#F9_y*B;9 `&lt;&#x27;X^aa X8,x^fZYF</text>
+<text class="a" x="224.0" y="137.2" textLength="415.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.33s">h   ^hh^T&#x27;-` -^_;;k;...       &#x27;^^^^hh@@y@@Kh_ hK;&#x27;hn_ ^^^^k&#x27;_k_</text>
+<text class="z" x="204.2" y="150.4" textLength="442.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.85s">/Z~1  EZ^/97&#x27;D##Y:6;/Be&#x27;4ZD&#x27;`*^+^6/,\6ff! 6y&#x27;Zy*z=0YCF/ 6&gt;3Y  x,*ZD</text>
+<text class="a" x="204.2" y="150.4" textLength="442.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">_y/k  ;^^;k/_ynk^^hhnw__yhggg__-:^:~~^--- &#x27;hh@ykh^h_hy_ ^k;:  ^kh_@</text>
+<text class="z" x="197.6" y="163.6" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.82s">151E  *D&lt;&lt;?#@d 5      Zy@fe6z&#x27;@bb?#!ZDy+9E?3/\#;\-8~Fd.;a2 ?%E&#x27;  5zd92</text>
+<text class="a" x="197.6" y="163.6" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.27s">_h^^  :;^\/r^^ `      ,:hhZhKh@@PRgyky_ynqy_y_^hk\h/@h_h;_ &#x27;^hy  nkhh_</text>
+<text class="z" x="191.0" y="176.8" textLength="481.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">8?a@9   8#4X&gt;e!               XZ@&gt;@6fD=b%.A99b6Y X+b%~/:$X+84b #F&amp;4.f8e8/</text>
+<text class="a" x="191.0" y="176.8" textLength="481.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.24s">hhh``   ^yy:^-`               Y;&#x27;h_:*k^:T^ndM@@g Th;^nh@@@@y_: ^y:`^n;\\_</text>
+<text class="z" x="184.4" y="190.0" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.76s">B:48a   Z68~B                   9;b/4?2=  14.&amp;z~3&amp;\z_Y=X@Cyz`@;? 5^E +17&lt;z^&lt;</text>
+<text class="a" x="184.4" y="190.0" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.21s">JkTk:   :v::&#x27;                   :\yny^n:  ;h;Th@@@p}hhnnTQkYRh:v &#x27;kk -yk^Tk_</text>
+<text class="z" x="184.4" y="203.2" textLength="514.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.74s">C38 1   , 2/ &#x27;.  *D`#,  b     5  4C#0,9f-8&amp;=Y^+*;:$X&gt;:F?3A;1@a8c7B.*: %Z B&gt;3&amp;:</text>
+<text class="a" x="184.4" y="203.2" textLength="514.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.19s">\h^ \   ` ^: -_  ^/\n_  :     \  h^k@ygyTk_ykn;N@@}nhykhn^hqy^h:v:&#x27;h` ^y ^hnh_</text>
+<text class="z" x="184.4" y="216.4" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.71s">#x*Z ; *      e^&amp;;= 5!,b2:   f?$9 C~=&lt;;%&gt;/ _x_9F\-48A&gt;:&#x27;Z#;$!#D8b/86  ~4+zy3z7a</text>
+<text class="a" x="184.4" y="216.4" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.16s">q_^` : `      ^k`:. ^kh_::   :^y- \:R@MyPk ^k/^^hh@u:\hhy;^\h_&#x27;\/;\^  &#x27;T&#x27;-^nhpR</text>
+<text class="z" x="191.0" y="229.6" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.68s">18_B \    ^   ,/CDx?1&#x27;%?!&amp;xE;3&lt;%*z08z-e~ B - $  5&gt;&lt;: 4!;`,b.~ $_\ &#x27;  &gt;  ! ,0*6:</text>
+<text class="a" x="191.0" y="229.6" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.13s">Th\; `    :   &#x27;h^-^:yykk;nkgyqhnyyyhhhk: h ^ &#x27;  Thh^ ^;^^\:-n ^;&#x27; ^  &#x27;  - ^q@@;</text>
+<text class="z" x="197.6" y="242.8" textLength="508.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.65s">8y/~8 X!    *;*@1d$1#__x^*d9F@zCYe0F.D7@-Dfy   @$C8  x3 DBZ8?9F 8c   Z    #Ad</text>
+<text class="a" x="197.6" y="242.8" textLength="508.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.10s">gy_^: ``    &#x27;`-hyh@hhh@yhh@@@@@ghhkhhyhyyh_:   -^Yy  ^- ;kkn`:^ `:   :    n@`</text>
+<text class="z" x="191.0" y="256.0" textLength="514.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.62s">ZCA  By     ^*#$?x`+04b%x#xaA~7;!5Z&amp;E8a*z9&amp;EE6;Z&amp; ;~   DF\^Ey5    70  &amp;   6A-X</text>
+<text class="a" x="191.0" y="256.0" textLength="514.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.07s">yh^  &#x27;^     ^:yh@h@@@@@@@yq@@@@@@@@h\^T@@h@@@yy;: \n   ^^\\nkk    &#x27;:  n   :nPy</text>
+<text class="z" x="184.4" y="269.2" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s">$fxy/ &amp;    e@ ,;yEB_fc?!6%7:A+B\A7-C9-555X=b/_*6#-5&amp;      84:0\\&amp;d*   @E9  ; `?</text>
+<text class="a" x="184.4" y="269.2" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.04s">gK^^` `    ;&#x27; :@@@@y@@@@@@@h@@@@@@@@y^^j@@@@@@@g@yy}      :nh{y\^:\   `^:  : ^W</text>
+<text class="z" x="184.4" y="282.4" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">ex8      : =  C`^771#&lt;!7A41_D@2&#x27;0.=,!.F ,1=/C!E-;`&amp;10d &amp;  `3F:% : +%   z-   x @~</text>
+<text class="a" x="184.4" y="282.4" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.01s">hh:      : ^  q@@@@@n@@@@@@j@g@@@@@@@K- @@@@@@@@@@@hk: -  jknh^ n nh   ^^   ^ q_</text>
+<text class="z" x="184.4" y="295.6" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.54s">:38./ X`  Y3 #ZFx1bb\D*%D24fF?y-7%b?&lt;6  2,-_;EEy;1y~_6 b z1=&lt;y&lt; &amp;\8Z   7b    ^4,</text>
+<text class="a" x="184.4" y="295.6" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.99s">j}^:: :^  ^- _@@@@@@gT@@@@@@@@@@@@@@@@  @@@@h@@@@@@@hy n &#x27;nu/hh y&#x27;:;   ^:    :&#x27;9</text>
+<text class="z" x="184.4" y="308.8" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.51s">F43  ?b    /~*&gt;,b*.~`;Zc/#E202E9\0:,F%7:c`?A89xY\*:~01y43_#?$3C F  Z   6d  7!&amp; 19</text>
+<text class="a" x="184.4" y="308.8" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.96s">/h`  -\    -:@@@@@@@@n@@@@@y@@@@@@@@@yk;yhhyy@@@@@@@hhy^:;};h^n h  :   `:  `:: ^k</text>
+<text class="z" x="184.4" y="322.0" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.48s">54~ Y+^@  @ 9A+DByF5*bX$!Y?^c$yC_?x;9x3BF=+&amp;_9d/0;^Ye!!a_5:.y ~69  ~    b       ~</text>
+<text class="a" x="184.4" y="322.0" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.93s">ny: :^^n  - n@@@@@@@@kq@@@@@g@@@@@@@@@@g@@@@@g@@@@@@@@@n/^^// &#x27;:k  `    :       n</text>
+<text class="z" x="191.0" y="335.2" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s"># 2Cy_%#  /7Ay2*;^z3`^7$B,C2`A1/!Z-E8&amp;\7/_X/^5^;F-+f7f&gt;^72z % e@       1      %\</text>
+<text class="a" x="191.0" y="335.2" textLength="528.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.90s">h `&#x27;^:^;  :@@@@@@@@@gg@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g_^^: ^ y`       ^      ^_</text>
+<text class="z" x="184.4" y="348.4" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.42s">#e  @2%C%  &gt;14C.D=*&lt;,/&gt;y9E5$_zD0`,4&lt;+!*:*&#x27;2=bF\0&#x27;X_Z3*%C6/`a4 /.        `      E6#</text>
+<text class="a" x="184.4" y="348.4" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.87s">+^  -^k:^  ^@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@gy^` /^        ^      :hy</text>
+<text class="z" x="184.4" y="361.6" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s">x2    ~Z x X1$0$5&amp;Z%;/E&amp;e ,`:,f$;ECB.:_!DFeZx&amp;#^+6C5X0Y;37?7&gt;!Z      E  _  B     X</text>
+<text class="a" x="184.4" y="361.6" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.84s">jh    :^ &#x27; :@@@@RThh^^^-T &#x27;^\^hThP@@@@@@@@@KhhP^^ThPhhRR@@@@k_^      `  -  :     k</text>
+<text class="z" x="184.4" y="374.8" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.36s">@e    ~    ..5`YYe*8/1F&lt;      ~ 2&amp;y$6ba.&lt;3+&amp;;f        *\+27C4&gt;^?25              fA</text>
+<text class="a" x="184.4" y="374.8" textLength="541.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.81s">-y    :    n@@T__;;^r---      ^ ^^hh@@@@@hk^^`        `^&#x27;&#x27;^^^^hy:-              ^k</text>
+<text class="z" x="191.0" y="388.0" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s">~   EaXzF=X--:c:`;E;/4~&gt;~~@-   d/.&amp;1;~89^y     Z+y5$+!6^4`$-^=%/ed              /</text>
+<text class="a" x="191.0" y="388.0" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">y   ;gg@@P_,yyyggggggggy____   ^:qg@@@@hk`     ,...-----n~.:,_^hhk              y</text>
+<text class="z" x="191.0" y="401.2" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.31s">&amp;`  8&gt;4e;XXz!+xeCf&#x27;\$`,@$\;$eDy\!  .2A`&gt;f_&amp;\$Y7b6&amp;2+Y1zb@xa*y&lt;1B:2-z_2%_       Ec</text>
+<text class="a" x="191.0" y="401.2" textLength="534.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.76s">^^  hh@h_@@gyq@@@@@@@@Rhhhhhhnkn_  h@T&#x27;&#x27;`n^_._yggg@@@@@@@@@@hhnk2_hnn___       y^</text>
+<text class="z" x="197.6" y="414.4" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s">&#x27; 22#XZ`y/1D1\!3&lt;3=*1c`5X  &lt;?!%b@yZ1     *cf`E8&lt;@&#x27;-&lt;9&lt;&amp;+07FZYZ/_?$6.%ex0     *C</text>
+<text class="a" x="197.6" y="414.4" textLength="521.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.73s">\ j^^^k^P@@@@@@@Ph@@ghhh:  ^^^^hhh^^     rg@@@@@@@@@@@@@@@@hh::h^Tkyhhhy     :R</text>
+<text class="z" x="210.8" y="427.6" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.25s">f B&lt;xY ^f1f/6&gt;c\$19       &lt;0&#x27;=@ ~D/$bFA$z.=0e5bxX_y2_d~30z`484&gt;#!f75~4    Ff</text>
+<text class="a" x="210.8" y="427.6" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.70s">^ :&#x27;k: @@@@@Pvh^^&#x27;`       :y@@k _ggg_&#x27;:^@@hnT^P*TTTPhhk^hhhhkhk^M@hhnk    ^n</text>
+<text class="z" x="237.2" y="440.8" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.22s">X5&gt;Z61+&amp;  ?&#x27;3`*Z48 8 z$$x? *D.XD8*% F8 0yY?#       &amp;fDB=/?7-ZY&lt;AYD    ^&amp;</text>
+<text class="a" x="237.2" y="440.8" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.67s">::q@hh^^  __;_____ : :_g@@ _@@@@@y&#x27; ^k __h@_       ^-^hhhhk^qh`:^{    _`</text>
+<text class="z" x="204.2" y="454.0" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.19s">&#x27; f  F;&lt;.f:5@;86\d;f8~.`$/&gt;1&lt;x:A.0&lt;YY;=   X9%x`4b9dB+;ax1  EZ`;0`c@  `,   F*</text>
+<text class="a" x="204.2" y="454.0" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.64s">\ :  ::qggggggyh@hhhhh^^__gg@@^_@@@@@@@   :;_;TThhhhyyyn:  ^hhhh^gh  :L   \j</text>
+<text class="z" x="250.4" y="467.2" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s">4^&gt;fE%-9;_xdz.D!E$^@-fx328`%?7^fy$ #%!c&#x27;_+9&#x27;a^2d_d?\`f6&lt;? !Z  ~C  @4</text>
+<text class="a" x="250.4" y="467.2" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.61s">@@@@@@@ggggggggg@@@@@@h_@@@@@@@@g_ ^hh@ggg________yyynh@h @:  ^^  nW</text>
+<text class="z" x="217.4" y="480.4" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.14s">+   &amp;x@zY:1Z;!%yb&#x27;eyd4e9D7~&lt;!$%a#1&gt;~&lt;%X+ !fbz/@2/9ey8yy2f&gt;8_&amp;_x%D  Y  6C</text>
+<text class="a" x="217.4" y="480.4" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s">_   _^@@@@@@@@@@@@@@@@@@@@`g@@@@@@@@@@g_ ^h@@@@@@@@@@@@@@@@@@@Qh`  :  :`</text>
+<text class="z" x="210.8" y="493.6" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.11s">a!03E5*Ey4&gt;^+;^y$=,EB;C%:xbA3AY9;-y\*8!&lt;;~ E/&lt;E./0,e~0xBza669B!#3     D^</text>
+<text class="a" x="210.8" y="493.6" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">g@gyq@ggg__TTPPPPMMMPPPP&quot;_g@@@@@@@@@@@@@hy ^MR@@@@@@@@@@@@@@@@@P;     _&#x27;</text>
+<text class="z" x="210.8" y="506.8" textLength="468.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.08s">c_Y\1fd&amp;c&lt;@$#=+f&lt;&#x27;@B##$?Byx$B&amp;E$&amp;dF`/az&amp;FC0+  ~\\=$$ZFx*Fxx-6+?+Y  Fy\-</text>
+<text class="a" x="210.8" y="506.8" textLength="468.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s">k:MRq@@@@@@@@@@@@MhhhhRhg@@@@@@@@@@@@@@@@@@y  ,_____TTTT______yg@  _y@@</text>
+<text class="z" x="210.8" y="520.0" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.05s">.,3;#&#x27;;-%CF`.Xe86-fE#Y2#39X+&#x27;6C%ac\C*c-&lt;3!9/-FF%!&#x27;7+7BY&gt;7d&#x27;8;c&lt;-\ B^7&lt;=x</text>
+<text class="a" x="210.8" y="520.0" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.50s">@h@h@@@@@@@@@@@g@@@@@@g@@@@@RRR@@@@@@hhhhh@@hnnggggg@@@@@@@@@@h@@ :hhhnL</text>
+<text class="z" x="210.8" y="533.2" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.08s">X*7YBbY+x.&#x27;+11E*3y#`\_;3a8&lt;0x^5?aeFBFe    y$&#x27;d.9@4zbE.&lt;54BX;d^?,5 yB~8/:</text>
+<text class="a" x="210.8" y="533.2" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s">@h@h@@@@@@@@@@@@@@@@@@@@@h&#x27;_____@hhhP`    ^^h^nh@@@@@@@@@@@@@@hhh n@hhnL</text>
+<text class="z" x="210.8" y="546.4" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.11s">_FCf@D@~D.e9&#x27;&lt;~./;D+&lt;z+/0@@Y_D_3:/+x+:\05$ !1Y3B^8x-5#@;eE1!E~3Bc dEy2^z</text>
+<text class="a" x="210.8" y="546.4" textLength="475.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">^@@^@@@@@@@@@@@@@@@@@@@@@ggg@@@@@g___:^nn^ __yyh@@@@@@@@@@@@@@hhh q@@hq`</text>
+<text class="z" x="217.4" y="559.6" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.14s">DyXyBd^A&gt;y=53.;xB+2~Y1CCx&lt;;365#f29Az&gt;y.X!07+$;a\&lt;CY/9&#x27;+c5a\C68#x Y`9,2</text>
+<text class="a" x="217.4" y="559.6" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s">R@^@@@@@@@@@@@@@@h@@@@@@@PT^^_TPM@@PPh:&#x27;&#x27;hhh@@@@@@@@@@@@@@@@hhhk ^@@_K</text>
+<text class="z" x="217.4" y="572.8" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s">E5 \A&gt;18F=Df&#x27;x%;:01%!&amp;22xB A&#x27;d; +^_E       19^Z15\&lt;?X&amp;ZZx/6ybD^@ &#x27;zxY2</text>
+<text class="a" x="217.4" y="572.8" textLength="462.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.61s">qk h@@@@@@@@@@@hhg@@MTT`^^ :^^- ^@@^       ^^hhhhh@@@@@@@@@hhhhk ^n@@`</text>
+<text class="z" x="217.4" y="586.0" textLength="455.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.19s">5- Fby?X6&#x27;Y^:C0A;3A&gt;   6!ZDZ:&#x27;~y_.673fx*z       `@_0%*c.Y?9&#x27;xd!z  !\&amp;</text>
+<text class="a" x="217.4" y="586.0" textLength="455.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.64s">^h h@@@@@@@@@@h`r^&#x27;^   ;`_ggggggg@gggy___       ^^^h@@@@@@hhhhh:  ^qK</text>
+<text class="z" x="224.0" y="599.2" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.22s">y -;e+d@^&gt;X4&#x27;Y @   \1Ya&lt;fBeY*zbYx_/7B\9*E4z= b    =;2^?67b%65@B 7~7&lt;</text>
+<text class="a" x="224.0" y="599.2" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.67s">h nh@@@@@@@@@^ &#x27;   _qqyMPh@@@@@@@hhhhTTPhh;: &#x27;    ^T@@@@hhhhh^^ :qR`</text>
+<text class="z" x="217.4" y="612.4" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.25s">aeE!&lt;.5Bc7z-5`3 2A&amp;&gt;x`x y##f$AE,Z+867F@$\C2x?,+     z`,6X9bX\-3, 3;b</text>
+<text class="a" x="217.4" y="612.4" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.70s">uy^nh@@@@@@@@@y ::^^^^^ __gggggggggggggg___&#x27;&#x27;^^     n@@@@hhhh\:- nhy</text>
+<text class="z" x="217.4" y="625.6" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s">%--&#x27;71,8:8&#x27;\y7Y=  ,/.C_?dx*Y$1Db1ac%1_+!$/6eXz%Y8af0f@xABBeA*\   $zx</text>
+<text class="a" x="217.4" y="625.6" textLength="448.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.73s">*h-hhhhh@@@@@@h_  _gggggg@@@@@@@@@@@@@@@hh__________g@@@@hhhk^   n@&#x27;</text>
+<text class="z" x="230.6" y="638.8" textLength="429.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.31s">5xF&gt;+z&gt;$2X+y!`?Y_bC;_&gt;2$.#3cyd%7c9$=XZ2cB14&amp;!A0edz@6X2b+*y6    \@</text>
+<text class="a" x="230.6" y="638.8" textLength="429.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.76s">:nnhhh@@@@@@@yng@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g@@@@@hhk^^    q@</text>
+<text class="z" x="230.6" y="652.0" textLength="429.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s">x!3!!Az=*\=?6#:Dc~4DE&gt;%`XECB@DF* -xbC75z;%C$!%!yAf*0__De&lt;7e%. `cD</text>
+<text class="a" x="230.6" y="652.0" textLength="429.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">^^ynyh@@@@@@@@@@@@@@@@@@@@hPT^^^ `^TTTh@@@@@@@@@@@@@@hh^^:-:: ^hP</text>
+<text class="z" x="237.2" y="665.2" textLength="409.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.36s">46A&lt;@Z=`y&lt;xZ260XY4:YFc,-:%fy     CZe,eD!@e_d3~00A0eX^Z4-B!  .;</text>
+<text class="a" x="237.2" y="665.2" textLength="409.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.81s">;^n^;nh@@@@@@@@@@@@@@@@@@gyy     ^nyg@@@@@@@@@@@@@@hhhk^^:  :`</text>
+<text class="z" x="237.2" y="678.4" textLength="396.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s">:3&lt;dFY$-@Zc@:ZZbAX7&#x27;a*ab7Z0/Y  FD^_e%A15C\;dF!Y05a*aZ&#x27;X&amp;^1 d</text>
+<text class="a" x="237.2" y="678.4" textLength="396.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.84s">^-y^;yn@@@@@@@@@@@@@@@@@@@@@h  ::/h@@@@@@@@@@@@@@@@hyn^:&#x27;&#x27; _</text>
+<text class="z" x="243.8" y="691.6" textLength="389.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.42s">9;9.68d//\/*&gt;ZB-`cc&#x27;1X9@~$7`+` x5Y*@.e#&#x27;:9e#+$\c7dc\;X:   3</text>
+<text class="a" x="243.8" y="691.6" textLength="389.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.87s">&#x27;;-;hnh@@@@@@@@@@@@@@@@@@@@h_^ :ng@@@@@@@@@@@@@@@hhk:&#x27;:   `</text>
+<text class="z" x="257.0" y="704.8" textLength="369.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s">+4Xde?;$,/&gt;0*#%$b`C57&amp;ex1=C*;.c^y*z81&gt;4&lt;`~D^&gt;$;&#x27;%b#    %</text>
+<text class="a" x="257.0" y="704.8" textLength="369.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.90s">`^`^nhhhPhRM@@@@@@@@@@@@@hy/^-n@@@@@@@@@@@@hhkhhhk^    K</text>
+<text class="z" x="263.6" y="718.0" textLength="356.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.48s">;  Y8CEyF6%+@.F!/AE_dd4Fy+6.`;0=`60&lt;4~Z@A!5C/Z $&lt;^  &amp;f</text>
+<text class="a" x="263.6" y="718.0" textLength="356.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.93s">-  ^TPh^-hnh@R@@@@@@@@hkh^-^:nkyM@@@@@@@@hT^^: :-^  ;&#x27;</text>
+<text class="z" x="283.4" y="731.2" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.51s">`E?X4+0#x&amp;4,.^6=x`@,^  E %&gt;C4b@4@:22~@#:c-,Z&lt;;7+.</text>
+<text class="a" x="283.4" y="731.2" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.96s">``:^:&#x27;-^^hknhhPhThhh:  ^ &#x27;\khnhhhhhhhk^-::-^^:^&#x27;-</text>
+<text class="z" x="276.8" y="744.4" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.54s">56     = @8%xYz\b6-=;F/   `3;~~+0-2&lt;%D-@  x  #4Z8</text>
+<text class="a" x="276.8" y="744.4" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.99s">g_     &#x27; ^n^^hh:^khk&#x27;^:   -v^^nhynTk^:^^  -  ::_y</text>
+<text class="z" x="276.8" y="757.6" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">,8?4   ! Y 9-&gt;`3$2\:c  &gt;?  &gt;9 X^C&gt; /e **  eD7F:&gt;\</text>
+<text class="a" x="276.8" y="757.6" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.01s">@@g_   ` ^ -^^:/^^:h^  `:  -: ^/^/ :: ^`  :&#x27;`_;@@</text>
+<text class="z" x="276.8" y="770.8" textLength="330.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s">?fzCxZ/       d_   /   !&amp; B   D9 2     D   %9Z&#x27;,-x</text>
+<text class="a" x="276.8" y="770.8" textLength="330.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.04s">@@@@kh:       ^&#x27;   :   `; `   ^: n     &#x27;   .yq@@@^</text>
+<text class="z" x="270.2" y="784.0" textLength="349.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.62s">7*!2F6?z:~&gt;           c       `$         &lt;B`ce!&#x27;94 9&amp;</text>
+<text class="a" x="270.2" y="784.0" textLength="349.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.07s">_@@@@@hhyy_           `       `-         _:^yh@@@@ ^\</text>
+<text class="z" x="257.0" y="797.2" textLength="369.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.65s">=&#x27;C~.XC0cF%-+D748#                     9Za?#~*^f&gt;&lt;+_  ;b</text>
+<text class="a" x="257.0" y="797.2" textLength="369.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.10s">_n^@@@@@@@@ykhn__,                     __nnhhq@@@@@@  ^h</text>
+<text class="z" x="250.4" y="810.4" textLength="389.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.68s">##+ BE/;#exc59~B4+&#x27;+C&gt;$:=57d  8F:===1?ad^^@zc5E1&lt;#x0B   2ee</text>
+<text class="a" x="250.4" y="810.4" textLength="389.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.13s">yh^ @@@@@@@@@@@@@@@@hyyy__::  :;_:yynyyhhyyhh@@@@@@@k   ^R_</text>
+<text class="z" x="243.8" y="823.6" textLength="402.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.71s">9$1% X`,1~,C3cZ.1b%.9@A&#x27;~3zx!`+9&gt;&amp;.3/8z#^?21X5x$Z$$yf:   Af:x</text>
+<text class="a" x="243.8" y="823.6" textLength="402.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.16s">/h^: @@@@@@@@@@@@@@@@@@g@@@@gyhhyyh@@hqhhhh@@@@@@@@@@K   ^nhh</text>
+<text class="z" x="237.2" y="836.8" textLength="422.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.74s">aZ$f+ ;=9!3~$-=_&#x27;y&lt;=%e8:*5da@4=8?-2c-:~E*Ea-5fBc^y0/bC`    5b_f6</text>
+<text class="a" x="237.2" y="836.8" textLength="422.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.19s">ghn-&#x27; @@@@@@@@@@@g@@@@@@@@@@@@@@@h@@@h@h@@@@@@@@@@@@@@`    nhnh,</text>
+<text class="z" x="224.0" y="850.0" textLength="442.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.76s">6_#~,^/ 8a0d1!&#x27;&lt;~.b.7:-\-%X#&lt;b&amp;e&#x27;4z%904&#x27;EF+9^AE@2,z&#x27;?A/f     f:9+EE</text>
+<text class="a" x="224.0" y="850.0" textLength="442.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.21s">_@hh^&#x27;/ }@@@@@@@@@@@@@@@@@@@@@@@@hhhhh@hh@@@@@@@@@@@@@@K     :hh^hk</text>
+<text class="z" x="217.4" y="863.2" textLength="468.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">F6:YxCx  C?2+!2Xbd=71c@2Y:fe=04B5-D&#x27;-&#x27;19be0y.!YE704_&gt;a_Z     @3c0d^*,.e</text>
+<text class="a" x="217.4" y="863.2" textLength="468.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.24s">_@hhh^/  }@@@@@@@@@@@@@@@@@@@@Rhhhhhhhh@@@@@@@@@@@@@@@@h     :^hhn^nhk_</text>
+<text class="z" x="204.2" y="876.4" textLength="508.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.82s">~.\3!#%;   c7_aX_af399DA305&#x27;$eA&#x27;4!A&amp;9^+2`81ybc@/2714Xfd,B      9E*&lt;`.`&amp;_8&gt;=y-</text>
+<text class="a" x="204.2" y="876.4" textLength="508.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.27s">__@hhn^/   ^@@@@@@@@@@@@@@@@@@@hh::nnnhh@@@@@@@@@@@@@@@@h      :^nkhh:^khhn__</text>
+<text class="z" x="171.2" y="889.6" textLength="567.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.85s">B,82x&lt;9-8\8/2&gt;   %xce+&#x27;cxxD$B2!Y!_CBb!_1+d!z#/&gt;7Xbc:ya8@c/2e=@  &lt;   9F8+#+&amp;&lt;975 f3ZZ%y</text>
+<text class="a" x="171.2" y="889.6" textLength="567.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">__yg@@@hhn^r;y   @@@@@@@@@@@@@@@@@@@@@hhhhhhh@@@@@@@@@@@@@@@h^  :   ::nhhhh^^/h ^^Th,_</text>
+<text class="z" x="144.8" y="902.8" textLength="613.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.88s">!AXd.@C~&#x27;:&lt;$:x+d&amp;&#x27;   /4f0#%^1dF$4%f~~^$&lt;d&gt;.!5_2e;7&amp;~A0ACd^2_1C7#Y  ~*&gt; &lt;&#x27;0&gt;!-1b`=,a0    ,1y&amp;=</text>
+<text class="a" x="144.8" y="902.8" textLength="613.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.33s">__gh@hRhQ@hhh^/;^^   h@@@@@@@@@@@@@@@@@@@@@@@@@h@@@@@@@@@@@@@@@h^  :^: ^^^nhhh/:^kv\    ^^Tn_</text>
+<text class="z" x="125.0" y="916.0" textLength="660.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.91s">3&#x27;b~0/5-&#x27;~3$:z#,Z@~C?   */:aY?b45YZ~&lt;`&#x27;\D10xd\_68\^4A?C;e4d`a~1e8\? F=A8*a:EXF0#zCc@_!0C*B     &gt;X^./</text>
+<text class="a" x="125.0" y="916.0" textLength="660.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.36s">_y@@hPTkn^y@@hk^/yh^-   ^@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@hh n;^::::n:^yhhh^^^^ky::     ^^hy_</text>
+<text class="z" x="105.2" y="929.2" textLength="706.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.94s">z+&amp;b`Z8F_/&amp;C_*^-?C1-&#x27;15Xx   x?:&gt;#`AZzB&#x27;2#zCB5~1&#x27;x+&gt;-=:eD^CA$1$e&lt;3/F_@0E$b_xx&gt;c^c7C9;3zAc&#x27;!=FXy-$d eB%~A=$Y.</text>
+<text class="a" x="105.2" y="929.2" textLength="706.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.39s">__@@hknhk^^:y@@hk^yy^^:::   h@@@@@@@@@@@@@@@@@@@@@@@h@h@@@@@@@@@@@@hhkn^/n:nny^^nnhhk^`:;hn^^y;:: :^^hh@w__</text>
+<text class="z" x="78.8" y="942.4" textLength="739.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.96s">\X&#x27;E*2BE1Ef^:9*&#x27;34,B8EBxx48%    AB\3A8X?7F/$BZb;&gt;a&lt;Xx~a;~%&lt;&#x27;&#x27;2*/x_??AC7z6~C~!8B4?y&#x27;B_?C@dc~,x=b3F&lt;Az@e5X1\=B-!`7</text>
+<text class="a" x="78.8" y="942.4" textLength="739.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.41s">__q@hhh@h^-^:^^g@@hkh}_h^-^^    ^h@@@@@@@@@@@@@@@@@hhhhhhhh@@@@@@@hh@@@@@gk;kh^hh^:^;nkhkn:^^ny_^-}^^nynyyyhh@@@</text>
+<text class="z" x="52.4" y="955.6" textLength="765.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.99s">\$%:_/=B_4=&lt;.4   5c`-&lt;b&amp;$!5F7*EC    ,Ec;+y737/Ya.!&#x27;*y-xfDyB;y~*?E##X1@-`&gt;x9A&lt;+YD_Ef.0&gt;y&#x27;.^`?b`;~%$+cZxC 1%\737D&lt;_edx</text>
+<text class="a" x="52.4" y="955.6" textLength="765.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.44s">_ynhhTk^yhhh^^   -g@@@hyh\^T^::^    ^h@@@@@@@@@@hhhhhhhhhhhhhh@@@@@@@h@@@@@g@hhhhhkyhn^:y^hhhh::hnnL&#x27;-; hn:/khhh@@@@</text>
+<text class="z" x="26.0" y="968.8" textLength="792.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.02s">*@B^&lt;?4x1*$46/\D    `!$fY83@-&amp;z%8C2,&amp;4   !z&gt;D&lt;0-!4ZcA&#x27;c/6*a.953ax@1ef*ZZ%DA,ez_cc2`6zy?_,9x#/^AE4B*@zd`bd2`9~c41;=^&gt;/bE=</text>
+<text class="a" x="26.0" y="968.8" textLength="792.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.47s">~ynPhknT^::yyh^:    :@Q@@@hhhPh-:^^n::   nh@@@@@@@@@@khhhhhhhhhyg@@@@@@@hh@@@@PM@@khhhnhh^^^^^^nhnn^n__j^:-``^^^hnkhhqhh</text>
+<g clip-path="url(#body)"><rect class="sc" x="0" y="0" width="844" height="90" fill="url(#scan)"/></g>
+<text x="26" y="998.0" class="h"><tspan class="g">$</tspan> whoami</text>
+<clipPath id="tc"><rect class="ty" x="26" y="1004.0" width="0" height="18"/></clipPath>
+<text x="26" y="1017.0" class="h" clip-path="url(#tc)"><tspan class="b">Arijit Naskar</tspan> · builder</text>
+<text x="205" y="1017.0" class="h cu">█</text>
+</svg>
