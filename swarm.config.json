@@ -3,8 +3,9 @@
   "readme": "README.md",
   "out": "assets/swarm",
   "layout": {
+    "style": "markdown",
     "portraitWidth": "52%",
-    "columnWidth": "42%",
+    "columnWidth": "44%",
     "stagger": 0.12
   },
   "cursors": {
@@ -30,12 +31,6 @@
     "whoami": "Arijit Naskar / builder",
     "alt": "Arijit Naskar, rendered in ASCII"
   },
-  "profile": {
-    "avatar": "assets/avatar.png",
-    "name": "Arijit Naskar",
-    "handle": "@arijit-debug",
-    "role": "Developer and video editor, Kolkata"
-  },
   "about": {
     "file": "technology.md",
     "title": "Technology.",
@@ -46,22 +41,22 @@
     ]
   },
   "projects": {
-    "title": "Currently building",
+    "title": "🛠️ Currently building",
     "items": [
       {
-        "icon": "music",
+        "icon": "🎵",
         "name": "LyricalStudio",
         "desc": "A music player where the lyrics animate in time with the song",
         "href": "https://github.com/arijit-debug/LyricalStudio"
       },
       {
-        "icon": "film",
+        "icon": "🎬",
         "name": "canva-dock",
         "desc": "A Premiere Pro plugin that brings Canva into the editing panel",
         "tag": "in progress"
       },
       {
-        "icon": "pen",
+        "icon": "🖊️",
         "name": "ScrollPen",
         "desc": "A Windows screen pen whose ink stays in place when you scroll",
         "href": "https://github.com/arijit-debug/ScrollPen"
@@ -69,7 +64,7 @@
     ]
   },
   "toolkit": {
-    "title": "Toolkit",
+    "title": "🧰 Toolkit",
     "items": [
       "Java",
       "Full-Stack Web",
