@@ -4,9 +4,10 @@
   "out": "assets/swarm",
   "layout": {
     "style": "markdown",
-    "portraitWidth": "52%",
+    "portraitWidth": "55%",
     "columnWidth": "44%",
-    "stagger": 0.12
+    "stagger": 0.12,
+    "table": true
   },
   "cursors": {
     "Claude": "#d97757",
@@ -80,7 +81,7 @@
     "title": "timeline / what I shipped lately",
     "footer": "rebuilt automatically by readme-swarm",
     "href": "https://github.com/arijit-debug?tab=repositories",
-    "max": 6,
+    "max": 8,
     "exclude": [
       "arijit-debug",
       "arijit-debug-original"
@@ -94,6 +95,7 @@
         "repo": "LyricalStudio",
         "message": "Add the LyricalStudio logo and app icons"
       }
-    ]
+    ],
+    "days": 60
   }
 }
