@@ -6,7 +6,7 @@
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=6bca77ea" alt="Editor timeline of recent commits: Selenium-Project: Initial commit; LyricalStudio: Continuous Graph, YouTube captions, immersive mode and smoother motion; LyricalStudio: Add the LyricalStudio logo: favicon, app icons, header and share image; ScrollPen: Update pdf.js to 6.5.438; ScrollPen: Remove a personal email address from the publishing guide; ScrollPen: Add the MIT licence; readme-swarm: readme-swarm: a swarm of cursors builds your GitHub profile README; readme-swarm: Stack column blocks where floats are ignored (GitHub mobile app)" width="100%" /></a></p>
+<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=ee1c4fd6" alt="Editor timeline of recent commits: Selenium-Project: Initial commit; LyricalStudio: Continuous Graph, YouTube captions, immersive mode and smoother motion; LyricalStudio: Add the LyricalStudio logo: favicon, app icons, header and share image; ScrollPen: Remove a personal email address from the publishing guide; ScrollPen: Add the MIT licence; readme-swarm: readme-swarm: a swarm of cursors builds your GitHub profile README; readme-swarm: Stack column blocks where floats are ignored (GitHub mobile app); readme-swarm: Table layout for the mobile app; timeline takes commits from every repo" width="100%" /></a></p>
 <!-- SWARM:END -->
 
 <h3 align="center">📬 Contact</h3>
