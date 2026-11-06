@@ -4,7 +4,7 @@
   "out": "assets/swarm",
   "layout": {
     "style": "markdown",
-    "portraitWidth": "55%",
+    "portraitWidth": "50%",
     "columnWidth": "44%",
     "stagger": 0.12,
     "table": true
@@ -30,7 +30,8 @@
     "ascii": "assets/portrait.txt",
     "title": "arijit-debug / README.md",
     "whoami": "Arijit Naskar / builder",
-    "alt": "Arijit Naskar, rendered in ASCII"
+    "alt": "Arijit Naskar, rendered in ASCII",
+    "divider": false
   },
   "about": {
     "file": "technology.md",
