@@ -1,0 +1,103 @@
+{
+  "user": "arijit-debug",
+  "readme": "README.md",
+  "out": "assets/swarm",
+  "layout": {
+    "portraitWidth": "54%",
+    "columnWidth": "44%",
+    "stagger": 0.12
+  },
+  "cursors": {
+    "Claude": "#d97757",
+    "Figma": "#a259ff",
+    "Gemini": "#4285f4",
+    "Java": "#e76f00",
+    "Premiere": "#7f7fff",
+    "Git": "#f05033",
+    "VS Code": "#23a8f2",
+    "After Effects": "#cf96fd",
+    "Fusion 360": "#f37021",
+    "Canva": "#00c4cc",
+    "GitHub": "#8b949e",
+    "Node": "#5fa04e",
+    "Photoshop": "#31a8ff",
+    "Audition": "#00c9a7",
+    "Lightroom": "#5ea9ff"
+  },
+  "portrait": {
+    "ascii": "assets/portrait.txt",
+    "title": "arijit-debug / README.md",
+    "whoami": "Arijit Naskar / builder",
+    "alt": "Arijit Naskar, rendered in ASCII"
+  },
+  "profile": {
+    "avatar": "assets/avatar.png",
+    "name": "Arijit Naskar",
+    "handle": "@arijit-debug",
+    "role": "Developer and video editor, Kolkata"
+  },
+  "about": {
+    "file": "technology.md",
+    "title": "Technology.",
+    "lines": [
+      "Building the tools I wish existed. Small tools, built with care.",
+      "Cutting video for the person watching. Writing code for the person using it.",
+      "Learning by building. One project at a time."
+    ]
+  },
+  "projects": {
+    "title": "Currently building",
+    "items": [
+      {
+        "icon": "music",
+        "name": "LyricalStudio",
+        "desc": "A music player where the lyrics animate in time with the song",
+        "href": "https://github.com/arijit-debug/LyricalStudio"
+      },
+      {
+        "icon": "film",
+        "name": "canva-dock",
+        "desc": "A Premiere Pro plugin that brings Canva into the editing panel",
+        "tag": "in progress"
+      },
+      {
+        "icon": "pen",
+        "name": "ScrollPen",
+        "desc": "A Windows screen pen whose ink stays in place when you scroll",
+        "href": "https://github.com/arijit-debug/ScrollPen"
+      }
+    ]
+  },
+  "toolkit": {
+    "title": "Toolkit",
+    "items": [
+      "Java",
+      "Full-Stack Web",
+      "Git & GitHub",
+      "VS Code",
+      "Figma",
+      "Fusion 360",
+      "Premiere Pro",
+      "After Effects"
+    ]
+  },
+  "timeline": {
+    "title": "timeline / what I shipped lately",
+    "footer": "rebuilt daily by readme-swarm",
+    "href": "https://github.com/arijit-debug?tab=repositories",
+    "max": 6,
+    "exclude": [
+      "arijit-debug"
+    ],
+    "fallback": [
+      {
+        "repo": "LyricalStudio",
+        "message": "Continuous Graph, YouTube captions, immersive mode"
+      },
+      {
+        "repo": "LyricalStudio",
+        "message": "Add the LyricalStudio logo and app icons"
+      }
+    ]
+  }
+}
