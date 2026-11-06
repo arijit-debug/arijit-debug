@@ -78,7 +78,7 @@
   },
   "timeline": {
     "title": "timeline / what I shipped lately",
-    "footer": "rebuilt daily by readme-swarm",
+    "footer": "rebuilt automatically by readme-swarm",
     "href": "https://github.com/arijit-debug?tab=repositories",
     "max": 6,
     "exclude": [
