@@ -1,12 +1,15 @@
 name: Rebuild README swarm
 
 on:
+  # profile edits rebuild at once (push below); new commits in other repos
+  # are picked up by this check every 15 minutes, which only commits when
+  # something changed
   schedule:
-    - cron: '17 1 * * *' # every day, 06:47 IST
+    - cron: '*/15 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [swarm.config.json, assets/portrait.txt]
+    paths: [swarm.config.json, assets/portrait.txt, assets/avatar.png, .github/workflows/swarm.yml]
 
 permissions:
   contents: write
