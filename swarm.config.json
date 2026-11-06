@@ -82,7 +82,8 @@
     "href": "https://github.com/arijit-debug?tab=repositories",
     "max": 6,
     "exclude": [
-      "arijit-debug"
+      "arijit-debug",
+      "arijit-debug-original"
     ],
     "fallback": [
       {

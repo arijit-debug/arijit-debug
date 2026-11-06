@@ -3,7 +3,7 @@
 
 <br clear="left" />
 
-<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=25978402" alt="Editor timeline of recent commits: arijit-debug-original: Move contact into a centered full-width row; arijit-debug-original: Email badge opens Gmail compose instead of mailto; ScrollPen: Ask before saving, show users everything ScrollPen stores; ScrollPen: Update pdf.js to 6.5.438; ScrollPen: Remove a personal email address from the publishing guide; ScrollPen: Add the MIT licence" width="100%" /></a></p>
+<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=cdf6cf4b" alt="Editor timeline of recent commits: LyricalStudio: Continuous Graph, YouTube captions, immersive mode and smoother motion; LyricalStudio: Add the LyricalStudio logo: favicon, app icons, header and share image; ScrollPen: Ask before saving, show users everything ScrollPen stores; ScrollPen: Update pdf.js to 6.5.438; ScrollPen: Remove a personal email address from the publishing guide; ScrollPen: Add the MIT licence" width="100%" /></a></p>
 <!-- SWARM:END -->
 
 <h3 align="center">📬 Contact</h3>
