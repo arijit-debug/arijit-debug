@@ -3,8 +3,8 @@
   "readme": "README.md",
   "out": "assets/swarm",
   "layout": {
-    "portraitWidth": "54%",
-    "columnWidth": "44%",
+    "portraitWidth": "52%",
+    "columnWidth": "42%",
     "stagger": 0.12
   },
   "cursors": {
