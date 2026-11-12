@@ -6,7 +6,7 @@
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=b5f9a9ed" alt="Editor timeline of recent commits: Selenium-Project: Initial commit; ScrollPen: Add the MIT licence; readme-swarm: Optional portrait divider; readme-swarm: Document the portrait divider option; LyricalStudio: Privacy: list romanization storage and the optional Gemini step; LyricalStudio: README: loop, play next, wider search and romanization; ScrollPen: Link the install steps to the GitHub release download; LyricalStudio: Fix the app crashing on open: YouTube text objects in the home feed" width="100%" /></a></p>
+<p align="center"><a href="https://github.com/arijit-debug?tab=repositories"><img src="./assets/swarm/timeline.svg?v=f02ae0d9" alt="Editor timeline of recent commits: Selenium-Project: Initial commit; ScrollPen: Add the MIT licence; readme-swarm: Optional portrait divider; readme-swarm: Document the portrait divider option; LyricalStudio: Privacy: list romanization storage and the optional Gemini step; LyricalStudio: README: loop, play next, wider search and romanization; ScrollPen: Link the install steps to the GitHub release download; LyricalStudio: Fix the app crashing on open: YouTube text objects in the home feed" width="100%" /></a></p>
 <!-- SWARM:END -->
 
 <h3 align="center">📬 Contact</h3>
